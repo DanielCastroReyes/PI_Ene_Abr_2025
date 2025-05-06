@@ -15,4 +15,4 @@ El proyecto representa la búsqueda de objetivos y metas a alcanzar, comenzando 
 La transmisión de las mediciones se realizará mediante módulos XBEE. Estas podrán ser visualizadas a través de la interfaz, y además se almacenarán en una base de datos. Esta base permitirá mostrar los datos históricos en forma de estadísticas e informes, lo que facilitará el seguimiento continuo del estado del invernadero.
 
 ### Documentación
-[Documentación en PDF](URL-del-enlace)
+[Documentación en PDF](https://github.com/DanielCastroReyes/PI_Ene_Abr_2025/blob/main/Reporte.pdf)
